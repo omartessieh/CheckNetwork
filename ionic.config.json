@@ -1,0 +1,7 @@
+{
+  "name": "checknetworkApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
